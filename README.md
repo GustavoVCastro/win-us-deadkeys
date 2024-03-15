@@ -19,9 +19,9 @@ If you know the architecture, you can execute the ```.msi``` file containing the
 
 Start > Settings > Time & language > Language & region
 
-## Relevant disclaimers
+## Disclaimers
 - Keyboard layout tested on **Windows 10**. For now, it still lacks validation from **Windows 11**.
 - The Dead Keys on this Layout were configured having Portuguese or Spanish speakers in mind. Other languages might require aditional configuration.
 
 ## TODO
-Create a table hare with relevante keystrokes.
+Create a table here with relevant key combinations.
